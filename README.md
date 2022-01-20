@@ -26,7 +26,7 @@ Html 5 / CSS 3 / JS / ES / TS / React / Angular / .Net Core / Spring / C# / Java
 
 ------------
 
-|  Currículo  |   Resume    |  Curriculum  |       Mobile       |      Skype      |
+|Currículo|Resume|Curriculum|Mobile|Skype|
 |:-----------:|:-----------:|:------------:|:------------------:| :--------------:| 
 |Português|English|Español|+55 11 99480 7060|webmaster-wc|
 |Baixar|Download|Descargar|[WhatsApp](https://web.whatsapp.com/send?phone=5511994807060)|[Link](https://join.skype.com/invite/ubuGDMyRNSXx)|
