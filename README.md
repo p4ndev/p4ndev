@@ -27,14 +27,3 @@
 |Currículo|Resume|Curriculum|
 |:-:|:-:|:-:|
 |[![Baixar currículo](https://img.shields.io/badge/Baixar-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|[![Download resume](https://img.shields.io/badge/Download-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|[![Descargar curriculum](https://img.shields.io/badge/Descargar-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|
-
-![TypeScript](https://img.shields.io/badge/typescript-FFFFFF.svg?style=for-the-badge&logo=typescript&logoColor=black)
-![Html 5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
-![Css 3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
-![CSharp](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
-![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=black)
-
-![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=black)
-![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
-![.Net Core](https://img.shields.io/badge/.NET%20Core-FFFFFF?style=for-the-badge&logo=.net&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=black)
