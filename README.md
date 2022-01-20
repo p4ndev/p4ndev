@@ -32,5 +32,5 @@
 
 ![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=black)
 ![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
-![.Net Core](https://img.shields.io/badge/.NET Core-FFFFFF?style=for-the-badge&logo=.net&logoColor=black)
+![.Net Core](https://img.shields.io/badge/.NET%20Core-FFFFFF?style=for-the-badge&logo=.net&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=black)
