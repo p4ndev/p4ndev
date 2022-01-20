@@ -31,5 +31,6 @@ Html 5 / CSS 3 / JS / ES / TS / React / Angular / .Net Core / Spring / C# / Java
 |Português|English|Español|+55 11 99480 7060|webmaster-wc|
 |Baixar|Download|Descargar|[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511994807060)|[![Skype](https://logincdn.msauth.net/shared/1.0/content/images/applogos/44_08ed657e48f1458641b5f879d82004cd.png)](https://join.skype.com/invite/ubuGDMyRNSXx)|
 
+[![Baixar](https://img.icons8.com/emoji/344/inbox-tray.png)](https://www.google.com.br)
 
 
