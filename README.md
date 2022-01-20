@@ -25,13 +25,19 @@
 [![webmaster-wc](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
 [![P4ndev](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/p4ndev)
 
-------------
-
 |Currículo|Resume|Curriculum|
 |:-:|:-:|:-:|
 |[![Baixar currículo](https://img.shields.io/badge/Baixar-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://www.google.com.br)|[![Download resume](https://img.shields.io/badge/Download-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://www.google.com.br)|[![Descargar curriculum](https://img.shields.io/badge/Descargar-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://www.google.com.br)|
 |Português|English|Español|
-|![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|
+|![LinkedIn](https://img.shields.io/badge/Português-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)|
+
+
+
+[](https://www.linkedin.com/in/p4ndev/?locale=pt_BR)
+[](https://www.linkedin.com/in/p4ndev/?locale=en_US)
+[](https://www.linkedin.com/in/p4ndev/?locale=es_ES)
+
+
 
 
 ------------
