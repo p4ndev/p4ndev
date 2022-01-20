@@ -21,8 +21,6 @@
 💬 Yo **hablo** inglés, español y portugués,
 💼 con más de **16 años** de experiencia.
 
-------------
-
 # Stacks
 Html 5 / CSS 3 / JS / ES / TS / React / Angular / .Net Core / Spring / C# / Java
 
