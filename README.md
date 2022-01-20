@@ -23,11 +23,12 @@
 
 ------------
 
-[WHATSAPP] +55 11 99480 7060 [SKYPE] webmaster-wc
+# Stacks
+Html 5 / CSS 3 / JS / ES / TS / React / Angular / .Net Core / Spring / C# / Java
 
-|  Currículo  |   Resume    |  Curriculum  |
-|:-----------:|:-----------:|:------------:|
-|   Baixar    |  Download   |   Descargar  |
-|  Português  |   English   |    Español   |
+------------
 
-**React / Angular / .Net / Spring**
+|  Currículo  |   Resume    |  Curriculum  |       Mobile       |      Skype      |
+|:-----------:|:-----------:|:------------:|:------------------:| :--------------:| 
+|   Baixar    |  Download   |   Descargar  | +55 11 99480 7060  |   webmaster-wc  |
+|  Português  |   English   |    Español   |      WhatsApp      |                 |
