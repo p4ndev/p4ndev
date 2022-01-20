@@ -18,11 +18,11 @@
 💬 I **speak** english, spanish and portuguese,
 💼 with over **16 years** of experience.
 
-![TypeScript](https://img.shields.io/badge/typescript-ED8B00.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Html 5](https://img.shields.io/badge/HTML5-ED8B00?style=for-the-badge&logo=html5&logoColor=white)
-![Css 3](https://img.shields.io/badge/CSS3-ED8B00?style=for-the-badge&logo=css3&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-ED8B00?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-525866.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Html 5](https://img.shields.io/badge/HTML5-525866?style=for-the-badge&logo=html5&logoColor=white)
+![Css 3](https://img.shields.io/badge/CSS3-525866?style=for-the-badge&logo=css3&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-525866?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-525866?style=for-the-badge&logo=java&logoColor=white)
 
 👋 Hola, Yo soy **Gustavo Jaques**,
 💻 Arquitecto, Ingeniero o Desarrollador (**software**).
