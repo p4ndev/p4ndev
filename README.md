@@ -9,6 +9,8 @@
 💬 **Falo** inglês, espanhol e português,
 💼 possuo mais de **16 anos** de experiência.
 
+[![Baixar currículo](https://img.shields.io/badge/Baixar%20Currículo-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)
+
 -----
 
 👋 Hi, I'm **Gustavo Jaques**, 
@@ -16,6 +18,8 @@
 
 💬 I **speak** english, spanish and portuguese,
 💼 I have more than **16 years** of experience.
+
+[![Download resume](https://img.shields.io/badge/Download%20Resume-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)
 
 -----
 
@@ -25,6 +29,4 @@
 💬 Yo **hablo** inglés, español y portugués,
 💼 con más de **16 años** de experiencia.
 
-|Currículo|Resume|Curriculum|
-|:-:|:-:|:-:|
-|[![Baixar currículo](https://img.shields.io/badge/Baixar-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|[![Download resume](https://img.shields.io/badge/Download-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|[![Descargar curriculum](https://img.shields.io/badge/Descargar-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|
+[![Descargar curriculum](https://img.shields.io/badge/Descargar%20Curriculum-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)
