@@ -30,7 +30,7 @@
 💬 Yo **hablo** inglés, español y portugués,
 💼 con más de **16 años** de experiencia.
 
-![Angular](https://img.shields.io/badge/Angular-1b1e24?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-1b1e24?style=for-the-badge&logo=react&logoColor=61DAFB)
-![.Net Core](https://img.shields.io/badge/.NET-1b1e24?style=for-the-badge&logo=.net&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-1b1e24?style=for-the-badge&logo=spring&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FFFFFF?style=for-the-badge&logo=angular&logoColor=black)
+![React](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react&logoColor=black)
+![.Net Core](https://img.shields.io/badge/.NET-FFFFFF?style=for-the-badge&logo=.net&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-FFFFFF?style=for-the-badge&logo=spring&logoColor=black)
