@@ -6,7 +6,7 @@
 💻 Arquiteto, Engenheiro ou Desenvolvedor (**software**).
 
 💬 **Falo** inglês, espanhol e português,
-💼 possuo de **16 anos** de experiência.
+💼 possuo mais de **16 anos** de experiência.
 
 |Currículo|Resume|Curriculum|
 |:-:|:-:|:-:|
@@ -16,7 +16,7 @@
 💻 Architect, Engineer or Developer (**software**).
 
 💬 I **speak** english, spanish and portuguese,
-💼 with over **16 years** of experience.
+💼 I have more than **16 years** of experience.
 
 ![TypeScript](https://img.shields.io/badge/typescript-FFFFFF.svg?style=for-the-badge&logo=typescript&logoColor=black)
 ![Html 5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
