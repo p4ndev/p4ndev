@@ -1,3 +1,4 @@
+
 👋 Olá, meu nome é **Gustavo Jaques**,
 💻 Arquiteto, Engenheiro ou Desenvolvedor (**software**).
 
@@ -29,5 +30,5 @@ Html 5 / CSS 3 / JS / ES / TS / React / Angular / .Net Core / Spring / C# / Java
 
 |  Currículo  |   Resume    |  Curriculum  |       Mobile       |      Skype      |
 |:-----------:|:-----------:|:------------:|:------------------:| :--------------:| 
-|   Baixar    |  Download   |   Descargar  | +55 11 99480 7060  |   webmaster-wc  |
-|  Português  |   English   |    Español   |[WhatsApp](https://web.whatsapp.com/send?phone=5511994807060)|[Link](https://join.skype.com/invite/ubuGDMyRNSXx)|
+|Português|English|Español|+55 11 99480 7060|webmaster-wc|
+|Baixar|Download|Descargar|[WhatsApp](https://web.whatsapp.com/send?phone=5511994807060)|[Link](https://join.skype.com/invite/ubuGDMyRNSXx)|
