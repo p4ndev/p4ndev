@@ -1,6 +1,6 @@
-[![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-6c7383?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511994807060)
-[![webmaster-wc](https://img.shields.io/badge/Skype-6c7383.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
-[![P4ndev](https://img.shields.io/badge/Facebook-6c7383.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/p4ndev)
+[![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=black)](https://web.whatsapp.com/send?phone=5511994807060)
+[![webmaster-wc](https://img.shields.io/badge/Skype-FFFFFF.svg?style=for-the-badge&logo=Skype&logoColor=black)](https://join.skype.com/invite/ubuGDMyRNSXx)
+[![P4ndev](https://img.shields.io/badge/Facebook-FFFFFF.svg?style=for-the-badge&logo=Facebook&logoColor=black)](https://www.facebook.com/p4ndev)
 
 👋 Olá, meu nome é **Gustavo Jaques**,
 💻 Arquiteto, Engenheiro ou Desenvolvedor (**software**).
@@ -10,7 +10,7 @@
 
 |Currículo|Resume|Curriculum|
 |:-:|:-:|:-:|
-|[![Baixar currículo](https://img.shields.io/badge/Baixar-525866.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://www.google.com.br)|[![Download resume](https://img.shields.io/badge/Download-525866.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://www.google.com.br)|[![Descargar curriculum](https://img.shields.io/badge/Descargar-525866.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://www.google.com.br)|
+|[![Baixar currículo](https://img.shields.io/badge/Baixar-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|[![Download resume](https://img.shields.io/badge/Download-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|[![Descargar curriculum](https://img.shields.io/badge/Descargar-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://www.google.com.br)|
 
 👋 Hi, I'm **Gustavo Jaques**, 
 💻 Architect, Engineer or Developer (**software**).
@@ -18,11 +18,11 @@
 💬 I **speak** english, spanish and portuguese,
 💼 with over **16 years** of experience.
 
-![TypeScript](https://img.shields.io/badge/typescript-3b404c.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Html 5](https://img.shields.io/badge/HTML5-3b404c?style=for-the-badge&logo=html5&logoColor=white)
-![Css 3](https://img.shields.io/badge/CSS3-3b404c?style=for-the-badge&logo=css3&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-3b404c?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-3b404c?style=for-the-badge&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-FFFFFF.svg?style=for-the-badge&logo=typescript&logoColor=black)
+![Html 5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5&logoColor=black)
+![Css 3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3&logoColor=black)
+![CSharp](https://img.shields.io/badge/C%23-FFFFFF?style=for-the-badge&logo=c-sharp&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FFFFFF?style=for-the-badge&logo=java&logoColor=black)
 
 👋 Hola, Yo soy **Gustavo Jaques**,
 💻 Arquitecto, Ingeniero o Desarrollador (**software**).
