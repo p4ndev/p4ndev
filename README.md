@@ -1,6 +1,6 @@
-[![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511994807060)
-[![webmaster-wc](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
-[![P4ndev](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/p4ndev)
+[![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-6c7383?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511994807060)
+[![webmaster-wc](https://img.shields.io/badge/Skype-6c7383.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
+[![P4ndev](https://img.shields.io/badge/Facebook-6c7383.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/p4ndev)
 
 👋 Olá, meu nome é **Gustavo Jaques**,
 💻 Arquiteto, Engenheiro ou Desenvolvedor (**software**).
