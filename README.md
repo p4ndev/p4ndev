@@ -2,8 +2,8 @@
 [![webmaster-wc](https://img.shields.io/badge/Skype-FFFFFF.svg?style=for-the-badge&logo=Skype&logoColor=black)](https://join.skype.com/invite/ubuGDMyRNSXx)
 [![P4ndev](https://img.shields.io/badge/Facebook-FFFFFF.svg?style=for-the-badge&logo=Facebook&logoColor=black)](https://www.facebook.com/p4ndev)
 [![P4ndev](https://img.shields.io/badge/Linkedin-FFFFFF.svg?style=for-the-badge&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/p4ndev)
-[![Worldcellos](https://img.shields.io/badge/Hackerhank-FFFFFF.svg?style=for-the-badge&logo=HackerHank&logoColor=black)](https://www.hackerrank.com/worldcellos)
 [![Worldcellos](https://img.shields.io/badge/Leetcode-FFFFFF.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/worldcellos)
+[![Worldcellos](https://img.shields.io/badge/HackerHank-FFFFFF.svg?style=for-the-badge&logo=HackerHank&logoColor=black)](https://www.hackerrank.com/worldcellos)
 
 👋 Olá, meu nome é **Gustavo Jaques**,
 💻 Arquiteto, Engenheiro ou Desenvolvedor (**software**).
