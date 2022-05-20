@@ -32,3 +32,13 @@
 💼 con más de **16 años** de experiencia.
 
 [![Descargar curriculum](https://img.shields.io/badge/Descargar%20Curriculum-000000.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://github.com/p4ndev/p4ndev/raw/main/es_ES.pdf)
+
+-----
+
+# Portfolio / Jobs / Proyectos
+
+## Wordpress
+https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I
+![pt](https://github.com/p4ndev/p4ndev/raw/main/flags/pt.png) Desenvolvimento de temas, manutenção e arquitetura direcionada a projetos distintos.
+![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) Theme development, maintenance and architecture oriented to different projects.
+![es](https://github.com/p4ndev/p4ndev/raw/main/flags/es.png) Desarrollo de temas, mantenimiento y arquitectura dirigidos a diferentes proyectos.
