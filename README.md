@@ -37,13 +37,6 @@
 
 # Portfolio / Jobs / Proyectos
 
-### Mainframe / API
-| https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO |
-|:---------------------|
-| ![pt](https://github.com/p4ndev/p4ndev/raw/main/flags/pt.png) API produzidas no Mainframe, e consumidas em um projeto React JS. |
-| ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) API built inside Mainframe, and used it in a React JS project. |
-| ![es](https://github.com/p4ndev/p4ndev/raw/main/flags/es.png) Producción de APIs en el Mainframe, y llamadas en un proyecto React JS. |
-
 ### Mercedes Benz
 | https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs |
 |:---------------------|
@@ -57,13 +50,6 @@
 | ![pt](https://github.com/p4ndev/p4ndev/raw/main/flags/pt.png) Alguns hotsites utilizando animações e efeitos ricos. |
 | ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) Some hotsites using animations and rich effects. |
 | ![es](https://github.com/p4ndev/p4ndev/raw/main/flags/es.png) Algunos hotsites utilizan animaciones y efectos enriquecidos. |
-
-### Mobile App
-| https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb |
-|:---------------------|
-| ![pt](https://github.com/p4ndev/p4ndev/raw/main/flags/pt.png) App em React Native para iOS e Android feito em Asp.Net Core / Docker / Mongo / Rabbit e SQL. |
-| ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) React Native App for iOS and Android done in Asp.Net Core / Docker / Mongo / Rabbit and SQL. |
-| ![es](https://github.com/p4ndev/p4ndev/raw/main/flags/es.png) Móvil en React Native para iOS y Android hecho con Asp.Net Core / Docker / Mongo / Rabbit y SQL. |
 
 ### Benefício / Reward / Grafiticación
 | https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW |
@@ -85,6 +71,20 @@
 | ![pt](https://github.com/p4ndev/p4ndev/raw/main/flags/pt.png) Sistemas mobile, IoT, totem, ferramentas... |
 | ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) Mobile system, IoT, totem, tools... |
 | ![es](https://github.com/p4ndev/p4ndev/raw/main/flags/es.png) Sistema móvil, IoT, totem, herramientas... |
+
+### Mobile App
+| https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb |
+|:---------------------|
+| ![pt](https://github.com/p4ndev/p4ndev/raw/main/flags/pt.png) App em React Native para iOS e Android feito em Asp.Net Core / Docker / Mongo / Rabbit e SQL. |
+| ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) React Native App for iOS and Android done in Asp.Net Core / Docker / Mongo / Rabbit and SQL. |
+| ![es](https://github.com/p4ndev/p4ndev/raw/main/flags/es.png) Móvil en React Native para iOS y Android hecho con Asp.Net Core / Docker / Mongo / Rabbit y SQL. |
+
+### Mainframe / API
+| https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO |
+|:---------------------|
+| ![pt](https://github.com/p4ndev/p4ndev/raw/main/flags/pt.png) API produzidas no Mainframe, e consumidas em um projeto React JS. |
+| ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) API built inside Mainframe, and used it in a React JS project. |
+| ![es](https://github.com/p4ndev/p4ndev/raw/main/flags/es.png) Producción de APIs en el Mainframe, y llamadas en un proyecto React JS. |
 
 ### Wordpress
 | https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I |
