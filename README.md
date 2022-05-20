@@ -11,7 +11,7 @@
 💬 **Falo** inglês, espanhol e português,
 💼 possuo mais de **16 anos** de experiência.
 
-[![Baixar currículo](https://img.shields.io/badge/Baixar%20Currículo-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://github.com/p4ndev/p4ndev/raw/main/pt_BR.pdf)
+[![Baixar currículo](https://img.shields.io/badge/Baixar%20Currículo-000000.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://github.com/p4ndev/p4ndev/raw/main/pt_BR.pdf)
 
 -----
 
@@ -21,7 +21,7 @@
 💬 I **speak** english, spanish and portuguese,
 💼 I have more than **16 years** of experience.
 
-[![Download resume](https://img.shields.io/badge/Download%20Resume-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://github.com/p4ndev/p4ndev/raw/main/en_US.pdf)
+[![Download resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://github.com/p4ndev/p4ndev/raw/main/en_US.pdf)
 
 -----
 
@@ -31,4 +31,4 @@
 💬 Yo **hablo** inglés, español y portugués,
 💼 con más de **16 años** de experiencia.
 
-[![Descargar curriculum](https://img.shields.io/badge/Descargar%20Curriculum-FFFFFF.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=black)](https://github.com/p4ndev/p4ndev/raw/main/es_ES.pdf)
+[![Descargar curriculum](https://img.shields.io/badge/Descargar%20Curriculum-000000.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://github.com/p4ndev/p4ndev/raw/main/es_ES.pdf)
