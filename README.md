@@ -1,4 +1,4 @@
-[![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-FFFFFF?style=for-the-badge&logo=whatsapp&logoColor=black)](https://web.whatsapp.com/send?phone=5511994807060)
+[![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511994807060)
 [![webmaster-wc](https://img.shields.io/badge/Skype-FFFFFF.svg?style=for-the-badge&logo=Skype&logoColor=black)](https://join.skype.com/invite/ubuGDMyRNSXx)
 [![P4ndev](https://img.shields.io/badge/Facebook-FFFFFF.svg?style=for-the-badge&logo=Facebook&logoColor=black)](https://www.facebook.com/p4ndev)
 [![P4ndev](https://img.shields.io/badge/Linkedin-FFFFFF.svg?style=for-the-badge&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/p4ndev)
