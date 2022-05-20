@@ -37,7 +37,7 @@
 
 # Portfolio / Jobs / Proyectos
 
-| **Wordpress** |
+**Wordpress**
 | https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I |
 |:---------------------|
 | ![pt](https://github.com/p4ndev/p4ndev/raw/main/flags/pt.png) Desenvolvimento de temas, manutenção e arquitetura direcionada a projetos distintos. |
