@@ -2,7 +2,6 @@
 [![webmaster-wc](https://img.shields.io/badge/Skype-000000.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
 [![P4ndev](https://img.shields.io/badge/Facebook-000000.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/p4ndev)
 [![P4ndev](https://img.shields.io/badge/Linkedin-000000.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/p4ndev)
-[![Worldcellos](https://img.shields.io/badge/Leetcode-000000.svg?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.com/worldcellos)
 [![Worldcellos](https://img.shields.io/badge/HackerHank-000000.svg?style=for-the-badge&logo=HackerHank&logoColor=white)](https://www.hackerrank.com/worldcellos)
 
 👋 Olá, meu nome é **Gustavo Jaques**,
