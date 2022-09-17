@@ -19,7 +19,7 @@ Advertising budget system for internal employees in Brazil.
 
 💻 Angular | Sass | Typescript | Asp.Net Core API | Azure | Cross Browser | Cross Device | Responsive
 
-[![Hotsite](https://img.shields.io/badge/Hotsite-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYmTfzsRjGr2r7onfxmKQoE)
+[![US Hotsites](https://img.shields.io/badge/US%20Hotsites-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYmTfzsRjGr2r7onfxmKQoE)
 
 Hotsites from US clients done with stunning experiences.
 
