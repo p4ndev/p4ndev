@@ -11,7 +11,7 @@ I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years**
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
 
-## Professional Evidences | Youtube
+## Professional Evidences on Youtube
 
 [![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
 
@@ -35,7 +35,19 @@ Whitelabel system for manage benefit and bonus for internal employees.
 
 US and Canada websites in multiple industries.
 
-💻 Wordpress | PHP | HTML | CSS | Javascript | jQuery | Adobe Photoshop slices | Magento | Drupal
+💻 Wordpress | PHP | HTML | CSS | Javascript | jQuery | Adobe Photoshop | Magento | Drupal
+
+[![Extra Projects](https://img.shields.io/badge/Extra%20Projects-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27)
+
+Email marketing build tool, IoT, Media game, Interactive tools, Budget online tool.
+
+💻 Arduino | Angular | Typescript | .Net Framework | jQuery | Javascript | C | C++ | C# (Sharp)
+
+[![Mobile App (PoC)](https://img.shields.io/badge/Mobile%20App%20(PoC)-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
+
+Android and iOS app to split payments on real time or on demand, with physical approach.
+
+💻 React Native | Typescript | Expo | Asp.Net Core API | Docker | MongoDB | Entity Framework | RabbitMQ and SQL.
 
 
 
@@ -50,17 +62,6 @@ US and Canada websites in multiple industries.
 
 
 
-
-
-### Diversos / Misc / Varios
-| https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27 |
-|:---------------------|
-| ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) Mobile system, IoT, totem, tools... |
-
-### Mobile App
-| https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb |
-|:---------------------|
-| ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) React Native App for iOS and Android done in Asp.Net Core / Docker / Mongo / Rabbit and SQL. |
 
 ### Mainframe / API
 | https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO |
