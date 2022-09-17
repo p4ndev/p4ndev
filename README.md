@@ -14,7 +14,7 @@ I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years**
 ## Professional Evidences on Youtube
 
 [![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
-Advertising budget system for internal employees in Brazil.
+Advertising budget system for internal employees.
 
 💻 Angular | Sass | Typescript | Asp.Net Core API | Azure
 
@@ -34,12 +34,12 @@ US and Canada websites in multiple industries.
 💻 Wordpress | PHP | HTML | CSS | Javascript | jQuery | Adobe Photoshop | Magento | Drupal
 
 [![Extra Projects](https://img.shields.io/badge/Extra%20Projects-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27)
-Email marketing build tool, IoT, Media game, Interactive tools, Budget online tool.
+IoT, Media game, Interactive tools, Budget online tool.
 
 💻 Arduino | Angular | Typescript | .Net Framework | jQuery | Javascript | C | C++ | C# (Sharp)
 
 [![Mobile App (PoC)](https://img.shields.io/badge/Mobile%20App%20(PoC)-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
-Android and iOS app to split payments on real time or on demand, with physical approach.
+Android and iOS app to split payments.
 
 💻 React Native | Typescript | Expo | Asp.Net Core API | Docker | MongoDB | Entity Framework | RabbitMQ and SQL.
 
