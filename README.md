@@ -6,9 +6,41 @@ Hi 👋, I'm **Gustavo Jaques**, 💻 Software Engineer (**full stack**).
 
 💬 I **speak** english, spanish and portuguese, 💼 over **16 years** of experience.
 
-[Download resume](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
-[HackerRank](https://www.hackerrank.com/worldcellos)
-[LeetCode](https://leetcode.com/worldcellos)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-FFFFFF.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
+[![HackerRank](https://img.shields.io/badge/HackerRank-FFFFFF.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFFFFF.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Professional evidences
 
