@@ -46,9 +46,7 @@ I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years**
 
 ## Professional Evidences | Youtube
 
-[![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
-
-Advertising budget system for internal employees in Brazil.
+[![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs) Advertising budget system for internal employees in Brazil.
 
 💻 Angular | Sass | Typescript | Asp.Net Core API | Azure | Cross Browser | Cross Device | Responsive
 
