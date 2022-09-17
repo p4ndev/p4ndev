@@ -5,7 +5,7 @@
 
 Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** english, spanish and portuguese.
 
-I'm a Software Engineer 💻 (**Angular | React | .NET**) 💼 with over **16 years** of experience.
+I'm a Software Engineer 💻 (**Angular | React | .NET**) with over **16 years** of experience 💼.
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
@@ -44,12 +44,14 @@ I'm a Software Engineer 💻 (**Angular | React | .NET**) 💼 with over **16 ye
 
 
 
-# Youtube (Professional Evidences)
+# Professional Evidences | Youtube
 
 [![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
 
 Advertising budget system for internal employees in Brazil.
+
 Developed in Angular | Sass | Typescript | Asp.Net Core API | Azure | Cross Browser | Cross Device | Responsive.
+
 Contribution with User Experience | User Interface and Bootstrap knowledge.
 
 
