@@ -3,9 +3,9 @@
 [![P4ndev](https://img.shields.io/badge/Facebook-000000.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/p4ndev)
 [![P4ndev](https://img.shields.io/badge/Linkedin-000000.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/p4ndev)
 
-Hi 👋, I'm **Gustavo Jaques**, 💻 Software Engineer (**full stack**).
+Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** english, spanish and portuguese.
 
-💬 I **speak** english, spanish and portuguese, 💼 over **16 years** of experience.
+I'm a Software Engineer 💻 (**Angular | React | .NET**) 💼 with over **16 years** of experience.
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
@@ -43,15 +43,13 @@ Hi 👋, I'm **Gustavo Jaques**, 💻 Software Engineer (**full stack**).
 
 
 
-# Professional evidences
 
-### Mercedes Benz Brasil
-https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs
+# Youtube (Professional Evidences)
+
+[![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
 
 Advertising budget system for internal employees in Brazil.
-
 Developed in Angular | Sass | Typescript | Asp.Net Core API | Azure | Cross Browser | Cross Device | Responsive.
-
 Contribution with User Experience | User Interface and Bootstrap knowledge.
 
 
