@@ -17,7 +17,7 @@ I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years**
 
 Advertising budget system for internal employees in Brazil.
 
-💻 Angular | Sass | Typescript | Asp.Net Core API | Azure | Cross Browser | Cross Device | Responsive
+💻 Angular | Sass | Typescript | Asp.Net Core API | Azure
 
 [![US Hotsites](https://img.shields.io/badge/US%20Hotsites-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYmTfzsRjGr2r7onfxmKQoE)
 
@@ -25,6 +25,17 @@ Hotsites from US clients done with stunning experiences.
 
 💻 HTML | CSS | Javascript | jQuery | After Effect | SVG
 
+[![Reward Projects](https://img.shields.io/badge/Reward%20Projects-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW)
+
+Whitelabel system for manage benefit and bonus for internal employees.
+
+💻 Wordpress | PHP | MySql | Asp.Net Framework MVC | Entity Framework | C# (Sharp) | MS Sql Server
+
+[![Corporate Websites](https://img.shields.io/badge/Corporate%20Websites-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwa4UQEvZxKtK9-2QpX0J22f)
+
+US and Canada websites in multiple industries.
+
+💻 Wordpress | PHP | HTML | CSS | Javascript | jQuery | Adobe Photoshop slices | Magento | Drupal
 
 
 
@@ -39,15 +50,7 @@ Hotsites from US clients done with stunning experiences.
 
 
 
-### Benefício / Reward / Grafiticación
-| https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW |
-|:---------------------|
-| ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) Whitelabel employee benefits system. |
 
-### Institucional / Corporate / Institucional
-| https://youtube.com/playlist?list=PLX10LPZ3Zpwa4UQEvZxKtK9-2QpX0J22f |
-|:---------------------|
-| ![en](https://github.com/p4ndev/p4ndev/raw/main/flags/en.png) Corporate websites of North American companies. |
 
 ### Diversos / Misc / Varios
 | https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27 |
