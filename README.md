@@ -24,7 +24,7 @@ Hotsites from US clients done with stunning experiences.
 💻 HTML | CSS | Javascript | jQuery | After Effect | SVG
 
 [![Reward Projects](https://img.shields.io/badge/Reward%20Projects-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW)
-Whitelabel system for manage benefit and bonus for internal employees.
+Whitelabel system to manage benefit and bonus for internal employees.
 
 💻 Wordpress | PHP | MySql | Asp.Net Framework MVC | Entity Framework | C# (Sharp) | MS Sql Server
 
@@ -38,8 +38,8 @@ IoT, Media game, Interactive tools, Budget online tool.
 
 💻 Arduino | Angular | Typescript | .Net Framework | jQuery | Javascript | C | C++ | C# (Sharp)
 
-[![Mobile App (PoC)](https://img.shields.io/badge/Mobile%20App%20(PoC)-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
-Android and iOS app to split payments.
+[![Mobile App (PoC)](https://img.shields.io/badge/Mobile%20App%20(PoC)-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white) Android and iOS app to split payments.](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
+
 
 💻 React Native | Typescript | Expo | Asp.Net Core API | Docker | MongoDB | Entity Framework | RabbitMQ and SQL.
 
