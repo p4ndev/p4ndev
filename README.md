@@ -64,8 +64,7 @@ Android and iOS app to split payments.
 
 
 | left | right |
-|:-------------------------------------------------:|
-| Content goes here... |
+|:-|-:|
 
 
 
