@@ -43,11 +43,38 @@ IoT, Media game, Interactive tools, Budget online tool.
 
 💻 Arduino | Angular | Typescript | .Net Framework | jQuery | Javascript | C | C++ | C# (Sharp)
 
+
+
+
+
+
+
+
+
+
+
 [![Mobile App (PoC)](https://img.shields.io/badge/Mobile%20App%20(PoC)-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
 
 Android and iOS app to split payments.
 
 💻 React Native | Typescript | Expo | Asp.Net Core API | Docker | MongoDB | Entity Framework | RabbitMQ and SQL.
+
+
+
+
+
+| left | right |
+|:---------------------|--------------------------------:|
+| Content goes here... |
+
+
+
+
+
+
+
+
+
 
 
 
