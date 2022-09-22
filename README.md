@@ -5,15 +5,10 @@
 
 Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** english, spanish and portuguese.
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-000000.svg?style=for-the-badge)](https://www.freecodecamp.org/P4ndev)
-[![FrontEndMentor](https://img.shields.io/badge/FrontEndMentor-000000.svg?style=for-the-badge)](https://www.frontendmentor.io/profile/p4ndev)
-
 I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years** of experience.
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
-*Portfolio on images (Linkedin) and video (Youtube).*
+*Portfolio with images (Linkedin) and video (Youtube).*
 
 ## Professional Evidences on Youtube
 
@@ -48,3 +43,10 @@ Reseller product for Mainframe and APIs 💻 IBM | CICS | Java | API | REST | BM
 [![Wordpress Theme](https://img.shields.io/badge/Wordpress%20Theme-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I)
 
 Theme development oriented to custom specifications 💻 Wordpress | PHP | MySql | HTML | CSS | Javascript | jQuery.
+
+## Trainning social tool
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-000000.svg?style=for-the-badge)](https://www.freecodecamp.org/P4ndev)
+[![FrontEndMentor](https://img.shields.io/badge/FrontEndMentor-000000.svg?style=for-the-badge)](https://www.frontendmentor.io/profile/p4ndev)
