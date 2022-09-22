@@ -5,7 +5,7 @@
 
 Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** English, Spanish, and Portuguese.
 
-I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years** of experience.
+I'm a Software Engineer (**Angular | React | .Net**) over **16 years** 💼 focused on architecture, full stack and leading.
 
 Don't forget to check my portfolio with **images** on Linkedin, and **video** on Youtube.
 
