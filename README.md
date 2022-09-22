@@ -7,7 +7,7 @@ Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** English, Spanish, and Portugue
 
 I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years** of experience.
 
-Carefully presented with **images** on Linkedin, and **video** on Youtube - please check it out.
+Don't forget to check my portfolio with **images** on Linkedin, and **video** on Youtube.
 
 ## Professional Evidences on Youtube
 
