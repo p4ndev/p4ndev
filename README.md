@@ -3,7 +3,7 @@
 [![webmaster-wc](https://img.shields.io/badge/Skype-000000.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 
-Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** english, spanish and portuguese.
+Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** English, Spanish, and Portuguese.
 
 I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years** of experience.
 
