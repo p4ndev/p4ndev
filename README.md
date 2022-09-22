@@ -1,6 +1,6 @@
+[![P4ndev](https://img.shields.io/badge/Linkedin-000000.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/p4ndev)
 [![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511994807060)
 [![webmaster-wc](https://img.shields.io/badge/Skype-000000.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
-[![P4ndev](https://img.shields.io/badge/Linkedin-000000.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/p4ndev)
 
 Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** english, spanish and portuguese.
 
