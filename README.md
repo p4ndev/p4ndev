@@ -1,13 +1,13 @@
 [![P4ndev](https://img.shields.io/badge/Linkedin-000000.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/p4ndev)
 [![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511994807060)
 [![webmaster-wc](https://img.shields.io/badge/Skype-000000.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 
 Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** english, spanish and portuguese.
 
 I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years** of experience.
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
-*Portfolio with images (Linkedin) and video (Youtube).*
+Carefully presented with **images** on Linkedin, and **video** on Youtube - please check it out.
 
 ## Professional Evidences on Youtube
 
