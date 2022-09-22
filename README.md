@@ -5,11 +5,15 @@
 
 Hi 👋, I'm **Gustavo Jaques**, 💬 I **speak** english, spanish and portuguese.
 
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
+[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-000000.svg?style=for-the-badge)](https://www.freecodecamp.org/P4ndev)
+[![FrontEndMentor](https://img.shields.io/badge/FrontEndMentor-000000.svg?style=for-the-badge)](https://www.frontendmentor.io/profile/p4ndev)
+
 I'm a Software Engineer (**Angular | React | .NET**) 💼 with over **16 years** of experience.
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
+*Portfolio on images (Linkedin) and video (Youtube).*
 
 ## Professional Evidences on Youtube
 
