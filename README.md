@@ -43,7 +43,7 @@ Reseller product for Mainframe and APIs 💻 IBM | CICS | Java | API | REST | BM
 
 Theme development oriented to custom specifications 💻 Wordpress | PHP | MySql | HTML | CSS | Javascript | jQuery.
 
-## Training Tools
+## Practice
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
