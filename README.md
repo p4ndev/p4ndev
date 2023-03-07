@@ -7,14 +7,17 @@ I’m **Gustavo Jaques**, BS in Computer Science (Software Developer) focused on
 
 ### Front end
 I used to research what best fits, and how to reach incredible experiences and best quality interfaces.
+
 Stack(s): _Angular | React | Photoshop | Experience | Interface_
 
 ### Back end
 I consider the best practices and reliable stacks with clean and most straightforward approaches.
+
 Stack(s): _.Net | C# (Sharp) | Node | Javascript_
 
 ### Architecture
 I consider business immersion essential to balance any debts for delivering value.
+
 Stacks(s): _Design Patterns | Design Principles | Architecture | Business Models_
 
 ## Professional Evidences on Youtube
