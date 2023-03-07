@@ -6,7 +6,6 @@
 I’m **Gustavo Jaques**, BS in Computer Science (Software Developer) focused on solving business problems in many industries.
 
 On the front-end, researching what best fits, and how to reach incredible experiences and best quality interfaces.
-
 _Angular | React | Photoshop | Experience | Interface_
 
 For back-end projects, I consider the best practices and reliable stacks with clean and most straightforward approaches.
