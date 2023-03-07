@@ -2,7 +2,7 @@
 [![+55 11 99480 7060](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/send?phone=5511994807060)
 [![webmaster-wc](https://img.shields.io/badge/Skype-000000.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
-[![Download Complete Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
+[![Download Complete Resume](https://img.shields.io/badge/Download%20Complete%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
 
 I’m **Gustavo Jaques**, BS in Computer Science (Software Developer) focused on solving business problems in many industries.
 
