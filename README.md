@@ -3,15 +3,16 @@
 [![webmaster-wc](https://img.shields.io/badge/Skype-000000.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ubuGDMyRNSXx)
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 
-I’m Gustavo Jaques, Software Developer focused on solving business problems in many industries, oriented by commitment, passion and concrete results.
+I’m **Gustavo Jaques**, BS in Computer Science (Software Developer) focused on solving business problems in many industries.
 
-On the front-end, researching what best fits, and how to reach incredible experiences and best quality interfaces - experience in Angular | React | Photoshop | Experience | Interface.
+On the front-end, researching what best fits, and how to reach incredible experiences and best quality interfaces.
+_Angular | React | Photoshop | Experience | Interface_
 
-For back-end projects, I consider the best practices and reliable stacks with clean and most straightforward approaches - experience in Node | .Net | C# (Sharp) | Javascript.
+For back-end projects, I consider the best practices and reliable stacks with clean and most straightforward approaches.
+_.Net | C# (Sharp) | Node | Javascript_
 
-As a full stack, I can propose a solid and efficient solution to a specific problem by covering every part - experience in Angular | React | .Net | Node.
-
-As an architect, I consider business immersion essential to balance any debts for delivering value - experience in Design Patterns | Design Principles | Architecture | Business Models.
+As an architect, I consider business immersion essential to balance any debts for delivering value.
+_Design Patterns | Design Principles | Architecture | Business Models_
 
 ## Professional Evidences on Youtube
 
