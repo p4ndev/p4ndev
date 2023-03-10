@@ -13,11 +13,11 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 ## Skills
 
-**Front end:** _Angular | React | Photoshop | Experience | Interface_
+> **Front end:** _Angular | React | Photoshop | Experience | Interface_
 
-**Back end:** _.Net | C# (Sharp) | Node | Javascript_
+> **Back end:** _.Net | C# (Sharp) | Node | Javascript_
 
-**Architecture:** _Design Patterns | Design Principles | Architecture_
+> **Architecture:** _Design Patterns | Design Principles | Architecture_
 
 ## Career Accomplishments
 
