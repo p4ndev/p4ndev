@@ -2,12 +2,11 @@
 [![Resume](https://img.shields.io/badge/Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 [![Resume (Complete)](https://img.shields.io/badge/Resume%20(Complete)-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
 
-I’m **Gustavo Jaques**, BS in Computer Science (Software Developer) full stack developer in many industries over the 17 years.
+# I’m Gustavo Jaques, BS in Computer Science.
+Full stack developer in many industries over the 17 years.
 
 **Front end:** _Angular | React | Photoshop | Experience | Interface_
-
 **Back end:** _.Net | C# (Sharp) | Node | Javascript_
-
 **Architecture:** _Design Patterns | Design Principles | Architecture_
 
 ## Practice / Challenges
