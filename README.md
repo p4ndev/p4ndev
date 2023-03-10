@@ -12,7 +12,7 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 **Architecture:** _Design Patterns | Design Principles | Architecture_
 
-## Practice / Challenge
+## Challenge
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
