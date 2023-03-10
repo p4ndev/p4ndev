@@ -4,7 +4,7 @@
 
 Highly skilled Full Stack Developer with over 17 years of experience in delivering high-quality applications using Angular, React, and .NET technologies (BS in Computer Science).
 
-## Skills
+## Skill
 
 **Front end:** _Angular | React | Photoshop | Experience | Interface_
 
