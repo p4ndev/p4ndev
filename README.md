@@ -2,7 +2,7 @@
 [![Resume](https://img.shields.io/badge/Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 [![Resume (Complete)](https://img.shields.io/badge/Resume%20(Complete)-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
 
-Full stack developer with BS in Computer Science in many industries over the 17 years.
+Full stack developer in many industries over the 17 years (BS in Computer Science).
 
 **Front end:** _Angular | React | Photoshop | Experience | Interface_
 
