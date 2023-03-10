@@ -4,20 +4,22 @@
 
 Highly skilled Full Stack Developer with over 17 years of experience in delivering high-quality applications using Angular, React, and .NET technologies (BS in Computer Science).
 
+## Skills
+
 **Front end:** _Angular | React | Photoshop | Experience | Interface_
 
 **Back end:** _.Net | C# (Sharp) | Node | Javascript_
 
 **Architecture:** _Design Patterns | Design Principles | Architecture_
 
-## Practice / Challenges
+## Practice / Challenge
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/worldcellos)
 [![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-000000.svg?style=for-the-badge)](https://www.freecodecamp.org/P4ndev)
 [![FrontEndMentor](https://img.shields.io/badge/FrontEndMentor-000000.svg?style=for-the-badge)](https://www.frontendmentor.io/profile/p4ndev)
 
-## Professional Evidences on Youtube
+## Professional Evidence
 
 [![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
 
