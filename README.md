@@ -55,7 +55,7 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 **Architecture:** _Design Patterns | Design Principles | Architecture_
 
-## GFS (extra)
+## Extra accomplishments
 
 ### RXD520
 Conception and full implementation of an app that splits payments on demand.
