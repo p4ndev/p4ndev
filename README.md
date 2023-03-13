@@ -28,6 +28,7 @@ _Mercedes Benz Brasil_ | Advertising system [![Youtube](https://img.shields.io/b
 | Company | Definition | Preview |
 | - |  - | - |
 | Mercedes Benz Brasil | Advertising system | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs) |
+
 *Stack(s):* Angular, Sass, Bootstrap, Typescript, Entity Framework, C#, Sql Server, Asp.Net Core, Azure
 
 
