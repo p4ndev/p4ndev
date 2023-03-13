@@ -3,9 +3,9 @@
 
 ## Skills
 
-_Angular, React, Photoshop, Experience, Interface_
-
 _.Net, C# (Sharp), Node, Javascript_
+
+_Angular, React, Photoshop, Experience, Interface_
 
 _Architecture, Design Pattern, Design Principle_
 
