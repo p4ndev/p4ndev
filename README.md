@@ -21,6 +21,19 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 Advertising budget system 💻 Angular | Sass | Typescript | Asp.Net Core API.
 
+
+
+[![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
+
+**Stack(s):** Angular | Sass | Typescript | Entity Framework | C# | Sql Server | Asp.Net Core | Azure | Bootstrap
+
+
+
+
+
+
+
+
 [![US Hotsites](https://img.shields.io/badge/US%20Hotsites-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYmTfzsRjGr2r7onfxmKQoE)
 
 Stunning experiences on US hotsites 💻 HTML | CSS | Javascript | jQuery | After Effect.
