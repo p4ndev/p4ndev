@@ -37,15 +37,6 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwa4UQEvZxKtK9-2QpX0J22f) | Wordpress, Magento, Drupal, SparkPay, Php |
 | US & Canada Websites | Html, Javascript, jQuery, Photoshop, Accessibility |
 
-
-
-
-
-[![Extra Projects](https://img.shields.io/badge/Extra%20Projects-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27)
-
-IoT, Media game, Budget online tool 💻 Arduino | Angular | Typescript | .Net Framework | jQuery | Javascript | C# (Sharp).
-
-
 | WorldCellos | Email System, Interactive Party Systems, Budget System |
 | - | - |
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27) | Arduino, .Net Framework, WCF, COM, C# |
