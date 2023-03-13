@@ -27,18 +27,6 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | Wise & Purple | Photoshop, Illustrator |
 | US & Canada Hotsites | After Effects |
 
-
-
-
-
-
-
-
-[![Reward Projects](https://img.shields.io/badge/Reward%20Projects-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW)
-
-System to manage benefit and bonus 💻 Wordpress | PHP | MySql | Asp.Net MVC | EF | C# (Sharp) | Sql Server.
-
-
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW) | Php, C#, Entity Framework, MySql, Azure (Sql) |
 | - | - |
 | Circle Aceleradora | Wordpress, .Net (Framework & Core), Mvc |
