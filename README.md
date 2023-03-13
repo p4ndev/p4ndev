@@ -35,7 +35,20 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 
 
+| Mercedes Benz Brasil | Angular, Html, Sass, Bootstrap, XD, Typescript |
+| - | - |
+| [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs) | Entity Framework, C#, .Net Core |
+| Advertising System | Azure (Blob, Sql, App Services, AD, Functions, CDN) |
 
+| Freelancer | Html, Css, Svg, Javascript, jQuery |
+| - | - |
+| [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYmTfzsRjGr2r7onfxmKQoE) | Photoshop, Illustrator |
+| US & Canada Hotsites | After Effects |
+
+| Circle Aceleradora | Php, C#, Entity Framework, MySql, Azure (Sql) |
+| - | - |
+| [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW) | Wordpress, .Net (Framework & Core), Mvc |
+| Benefit Systems | Bootstrap, Html, Css, jQuery, Information Architecture |
 
 
 
