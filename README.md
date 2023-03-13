@@ -7,7 +7,7 @@ _.Net, C# (Sharp), Node, Javascript_
 
 _Angular, React, Photoshop, Experience, Interface_
 
-_Architecture, Design Pattern, Design Principle_
+_Architecture, Design Pattern, Design Principle, Database, Cloud_
 
 ## Accomplishments
 
