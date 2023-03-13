@@ -22,10 +22,9 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 Advertising budget system 💻 Angular | Sass | Typescript | Asp.Net Core API.
 
 
+_Mercedes Benz Brasil_ | Advertising system [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
 
-[![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
-
-**Stack(s):** Angular | Sass | Typescript | Entity Framework | C# | Sql Server | Asp.Net Core | Azure | Bootstrap
+**Stack(s):** Angular | Sass | Typescript | Entity Framework | C# | Sql Server | Asp.Net Core | Azure | Bootstrap | 
 
 
 
