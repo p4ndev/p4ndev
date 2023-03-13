@@ -17,18 +17,13 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 ## Accomplishments
 
-| | |
-| - | - |
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs) | Angular, Html, Sass, Bootstrap, XD, Typescript |
+| - | - |
 | Mercedes Benz Brasil | Entity Framework, C#, .Net Core |
 | Advertising system | Azure (Blob, Sql, App Services, AD, Functions, CDN) |
 
-
-
-
-| | |
-| - | - |
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYmTfzsRjGr2r7onfxmKQoE) | Html, Css, Svg, Javascript, jQuery |
+| - | - |
 | Freelancing | Photoshop, Illustrator |
 | US & Canada Hotsites | After Effects |
 
