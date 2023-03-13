@@ -47,6 +47,8 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I) | Information Architecture, Html, Css, Javascript, jQuery |
 | Multiple Locations | Wordpress, Drupal, Magento, Php, MySql, Page Speed Optimization |
 
+...as an extra accomplishment: [![Youtube](https://img.shields.io/badge/React%20Native%20App-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb) and [![Youtube](https://img.shields.io/badge/Solution%20Architect-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO)
+
 ## Skills
 
 **Front end:** _Angular | React | Photoshop | Experience | Interface_
@@ -55,18 +57,14 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 **Architecture:** _Design Patterns | Design Principles | Architecture_
 
-## Extra accomplishments
 
-### RXD520
-Conception and full implementation of an app that splits payments on demand.
 
-_React Native, Typescript, Expo, Asp.Net Core, MongoDB, Entity Framework, RabbitMQ, Sql Server, Docker, Css, Photoshop_
 
-[![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
+
 
 ### Mainframe API (Reseller)
 Configuration and management transactions inside IBM Mainframe, and expose it as Restful API's.
 
 _CICS, Java, Restful API's, BMS, React JS_
 
-[![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO)
+
