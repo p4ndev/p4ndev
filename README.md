@@ -45,6 +45,34 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 IoT, Media game, Budget online tool 💻 Arduino | Angular | Typescript | .Net Framework | jQuery | Javascript | C# (Sharp).
 
+
+| WorldCellos | Email System, Interactive Party Systems, Budget System |
+| - | - |
+| [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27) | Arduino, .Net Framework, WCF, COM, C# |
+| Mobile, IoT & Web | Html, Css, Javascript, Knockout, jQuery, Photoshop |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Mobile App (PoC)](https://img.shields.io/badge/Mobile%20App%20(PoC)-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
 
 Android and iOS app to split payments 💻 React Native | Typescript | Expo | Asp.Net Core API | MongoDB | EF | RabbitMQ | Sql Server.
