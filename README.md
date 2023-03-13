@@ -1,10 +1,6 @@
 [![Resume](https://img.shields.io/badge/Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 [![Resume (Complete)](https://img.shields.io/badge/Resume%20(Complete)-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
 
-Highly skilled Full Stack Developer with over 17 years of experience in delivering high-quality applications using Angular, React, and .NET technologies (BS in Computer Science).
-
-## Challenges
-
 [![HackerRank](https://github.com/p4ndev/p4ndev/raw/main/challenges/hackerrank.jpg)](https://www.hackerrank.com/worldcellos)
 [![LeetCode](https://github.com/p4ndev/p4ndev/raw/main/challenges/leetcode.jpg)](https://leetcode.com/p4ndev)
 [![FreeCodeCamp](https://github.com/p4ndev/p4ndev/raw/main/challenges/free-code-camp-I.jpg)](https://www.freecodecamp.org/P4ndev)
