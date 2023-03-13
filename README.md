@@ -25,10 +25,10 @@ _Mercedes Benz Brasil_ | Advertising system [![Youtube](https://img.shields.io/b
 
 
 
-| Company - Definition | Screencast |
+| Company - Definition | Preview |
 | - | - |
-| _Mercedes Benz Brasil_ - Advertising system
-Angular, Sass, Bootstrap, Typescript, Entity Framework, C#, Sql Server, Asp.Net Core, Azure | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs) |
+| _Mercedes Benz Brasil_ - Advertising system | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs) |
+| Angular, Sass, Bootstrap, Typescript, Entity Framework, C#, Sql Server, Asp.Net Core, Azure |
 
 
 
