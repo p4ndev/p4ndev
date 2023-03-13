@@ -1,15 +1,6 @@
 [![Resume](https://img.shields.io/badge/Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 [![Resume (Complete)](https://img.shields.io/badge/Resume%20(Complete)-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
 
-[![HackerRank](https://github.com/p4ndev/p4ndev/raw/main/challenges/hackerrank.jpg)](https://www.hackerrank.com/worldcellos)
-[![LeetCode](https://github.com/p4ndev/p4ndev/raw/main/challenges/leetcode.jpg)](https://leetcode.com/p4ndev)
-[![FreeCodeCamp](https://github.com/p4ndev/p4ndev/raw/main/challenges/free-code-camp-I.jpg)](https://www.freecodecamp.org/P4ndev)
-
-[![Css - General](https://github.com/p4ndev/p4ndev/raw/main/challenges/css-dinner.jpg)](https://flukeout.github.io)
-[![Css - Grid](https://github.com/p4ndev/p4ndev/raw/main/challenges/grid-garden.jpg)](https://cssgridgarden.com)
-[![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-froggy.jpg)](https://flexboxfroggy.com)
-[![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-defense.jpg)](http://www.flexboxdefense.com)
-
 ## Skills
 
 **Front end:** _Angular, React, Photoshop, Experience, Interface_
