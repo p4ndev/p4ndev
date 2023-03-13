@@ -30,10 +30,17 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 
 
+| Company | Definition | Preview |
+| - | - | - |
+| The Skyline Agency | Hotsites (US & Canada) | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYmTfzsRjGr2r7onfxmKQoE) |
+| Html, Css, SVG, Javascript, jQuery | Photoshop, Illustrator | After Effects |
 
-[![US Hotsites](https://img.shields.io/badge/US%20Hotsites-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYmTfzsRjGr2r7onfxmKQoE)
 
-Stunning experiences on US hotsites 💻 HTML | CSS | Javascript | jQuery | After Effect.
+
+
+
+
+
 
 [![Reward Projects](https://img.shields.io/badge/Reward%20Projects-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW)
 
