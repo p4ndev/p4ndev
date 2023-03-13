@@ -47,8 +47,6 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I) | Information Architecture, Html, Css, Javascript, jQuery |
 | Multiple Locations | Wordpress, Drupal, Magento, Php, MySql, Page Speed Optimization |
 
-
-
 ## Skills
 
 **Front end:** _Angular | React | Photoshop | Experience | Interface_
