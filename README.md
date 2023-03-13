@@ -20,7 +20,7 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | Company | Definition | Preview |
 | - | - | - |
 | Mercedes Benz Brasil | Advertising system | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs) |
-| Angular, Html, Sass, Bootstrap, Typescript | Entity Framework, C#, Sql Server, Asp.Net Core | Azure (Blob, App Services, AD, CDN) |
+| Angular, Html, Sass, Bootstrap, Typescript | Entity Framework, C#, .Net Core | Azure (Blob, Sql, App Services, AD, CDN) |
 
 
 
