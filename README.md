@@ -58,12 +58,18 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 ## Extra
 
 **GFS - RXD520**
+
 [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
+
 Conception and full implementation of an app that splits payments on demand.
+
 _React Native, Typescript, Expo, Asp.Net Core, MongoDB, Entity Framework, RabbitMQ, Sql Server, Docker, Css, Photoshop_
 
 
 **GFS - Mainframe API (Reseller)**
+
 [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO)
+
 Configuration and management transactions inside IBM Mainframe, and expose it as Restful API's.
+
 _CICS, Java, Restful API's, BMS, React JS_
