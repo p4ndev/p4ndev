@@ -32,22 +32,14 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW) | Wordpress, .Net (Framework & Core), Mvc |
 | Benefit Systems | Bootstrap, Html, Css, jQuery, Information Architecture |
 
+| The Skyline Agency | Information Architecture, Page Speed Optimization, MySql |
+| - | - |
+| [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwa4UQEvZxKtK9-2QpX0J22f) | Wordpress, Magento, Drupal, SparkPay, Php |
+| US & Canada Websites | Html, Javascript, jQuery, Photoshop, Ada, Cloud |
 
 
 
 
-
-
-
-
-
-
-
-
-
-[![Corporate Websites](https://img.shields.io/badge/Corporate%20Websites-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwa4UQEvZxKtK9-2QpX0J22f)
-
-Multiple US and Canadian websites 💻 Wordpress | PHP | Javascript | jQuery | Adobe Photoshop | Magento | Drupal.
 
 [![Extra Projects](https://img.shields.io/badge/Extra%20Projects-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27)
 
