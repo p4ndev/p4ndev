@@ -80,10 +80,10 @@ Reseller product for Mainframe and APIs 💻 IBM | CICS | Java | API | REST | BM
 
 Theme development oriented to custom specifications 💻 Wordpress | PHP | MySql | HTML | CSS | Javascript | jQuery.
 
-| The Skyline Agency | Tech Lead, Project Management |
+| Theme Development | Tech Lead, Project Management |
 | - | - |
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I) | Information Architecture, Html, Css, Javascript, jQuery |
-| US & Canada Companies | Wordpress, Drupal, Magento, Php, MySql, Page Speed Optimization |
+| Multiple Locations | Wordpress, Drupal, Magento, Php, MySql, Page Speed Optimization |
 
 
 
