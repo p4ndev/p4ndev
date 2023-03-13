@@ -15,7 +15,7 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 [![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-froggy.jpg)](https://flexboxfroggy.com)
 [![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-defense.jpg)](http://www.flexboxdefense.com)
 
-## Career Accomplishments
+## Accomplishments
 
 [![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
 
