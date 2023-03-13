@@ -23,7 +23,10 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | Angular, Html, Sass, Bootstrap, XD, Typescript | Azure (Blob, Sql, App Services, AD, Functions, CDN) | Entity Framework, C#, .Net Core |
 
 
-
+| - | - |
+| [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs) | Angular, Html, Sass, Bootstrap, XD, Typescript |
+| Mercedes Benz Brasil | Azure (Blob, Sql, App Services, AD, Functions, CDN) |
+| Advertising system | Entity Framework, C#, .Net Core |
 
 
 
