@@ -1,4 +1,3 @@
-[![P4ndev](https://img.shields.io/badge/Linkedin-000000.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/p4ndev)
 [![Resume](https://img.shields.io/badge/Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
 [![Resume (Complete)](https://img.shields.io/badge/Resume%20(Complete)-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
 
