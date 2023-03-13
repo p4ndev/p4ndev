@@ -1,5 +1,5 @@
-Click and download my [![Resume](https://img.shields.io/badge/Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
-[![Resume (Complete)](https://img.shields.io/badge/Resume%20(Complete)-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
+[![Download resume](https://img.shields.io/badge/Resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume.pdf)
+[![Download complete resume](https://img.shields.io/badge/Resume%20(Complete)-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
 
 ## Skills
 
