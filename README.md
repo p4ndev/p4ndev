@@ -8,7 +8,7 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 [![HackerRank](https://github.com/p4ndev/p4ndev/raw/main/challenges/hackerrank.jpg)](https://www.hackerrank.com/worldcellos)
 [![LeetCode](https://github.com/p4ndev/p4ndev/raw/main/challenges/leetcode.jpg)](https://leetcode.com/p4ndev)
-[![FreeCodeCamp](https://github.com/p4ndev/p4ndev/raw/main/challenges/freecode-camp.jpg)](https://www.freecodecamp.org/P4ndev)
+[![FreeCodeCamp](https://github.com/p4ndev/p4ndev/raw/main/challenges/free-code-camp.jpg)](https://www.freecodecamp.org/P4ndev)
 [![CSS Dinner](https://github.com/p4ndev/p4ndev/raw/main/challenges/css-dinner.jpg)](https://flukeout.github.io)
 [![Css - Grid](https://github.com/p4ndev/p4ndev/raw/main/challenges/grid-garden.jpg)](https://cssgridgarden.com)
 [![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-froggy.jpg)](https://flexboxfroggy.com)
