@@ -47,7 +47,7 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I) | Information Architecture, Html, Css, Javascript, jQuery |
 | Multiple Locations | Wordpress, Drupal, Magento, Php, MySql, Page Speed Optimization |
 
-...as an extra accomplishment: [![Youtube](https://img.shields.io/badge/React%20Native%20App-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb) and [![Youtube](https://img.shields.io/badge/Solution%20Architect-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO)
+...as an extra accomplishment: [![Youtube](https://img.shields.io/badge/React%20Native%20App-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb) and [![Youtube](https://img.shields.io/badge/Mainframe%20Api%20Architect-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO)
 
 ## Skills
 
@@ -56,15 +56,3 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 **Back end:** _.Net | C# (Sharp) | Node | Javascript_
 
 **Architecture:** _Design Patterns | Design Principles | Architecture_
-
-
-
-
-
-
-### Mainframe API (Reseller)
-Configuration and management transactions inside IBM Mainframe, and expose it as Restful API's.
-
-_CICS, Java, Restful API's, BMS, React JS_
-
-
