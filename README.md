@@ -42,7 +42,7 @@ System to manage benefit and bonus 💻 Wordpress | PHP | MySql | Asp.Net MVC | 
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwaRwYBZHSDFzUUD8FVmdOcW) | Php, C#, Entity Framework, MySql, Azure (Sql) |
 | - | - |
 | Circle Aceleradora | Wordpress, .Net (Framework & Core), Mvc |
-| Benefits system | Bootstrap, Html, Css, jQuery, Information Architecture |
+| Benefit systems | Bootstrap, Html, Css, jQuery, Information Architecture |
 
 
 
