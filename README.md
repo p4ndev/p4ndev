@@ -15,14 +15,6 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 [![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-froggy.jpg)](https://flexboxfroggy.com)
 [![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-defense.jpg)](http://www.flexboxdefense.com)
 
-## Skills
-
-**Front end:** _Angular | React | Photoshop | Experience | Interface_
-
-**Back end:** _.Net | C# (Sharp) | Node | Javascript_
-
-**Architecture:** _Design Patterns | Design Principles | Architecture_
-
 ## Career Accomplishments
 
 [![Mercedes Benz Brasil](https://img.shields.io/badge/Mercedes%20Benz%20Brasil-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYaQexAcBhFwHey8_7DwEcs)
@@ -56,3 +48,11 @@ Reseller product for Mainframe and APIs 💻 IBM | CICS | Java | API | REST | BM
 [![Wordpress Theme](https://img.shields.io/badge/Wordpress%20Theme-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I)
 
 Theme development oriented to custom specifications 💻 Wordpress | PHP | MySql | HTML | CSS | Javascript | jQuery.
+
+## Skills
+
+**Front end:** _Angular | React | Photoshop | Experience | Interface_
+
+**Back end:** _.Net | C# (Sharp) | Node | Javascript_
+
+**Architecture:** _Design Patterns | Design Principles | Architecture_
