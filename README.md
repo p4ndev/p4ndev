@@ -42,44 +42,6 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwb_wNg0e48fqtUYLrOXGx27) | Arduino, .Net Framework, WCF, COM, C# |
 | Mobile, IoT & Web | Html, Css, Javascript, Knockout, jQuery, Photoshop |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[![Mobile App (PoC)](https://img.shields.io/badge/Mobile%20App%20(PoC)-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb)
-
-Android and iOS app to split payments 💻 React Native | Typescript | Expo | Asp.Net Core API | MongoDB | EF | RabbitMQ | Sql Server.
-
-[![Mainframe API (Product)](https://img.shields.io/badge/Mainframe%20API%20(Product)-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO)
-
-Reseller product for Mainframe and APIs 💻 IBM | CICS | Java | API | REST | BMS | REACT.
-
-
-
-
-
-[![Wordpress Theme](https://img.shields.io/badge/Wordpress%20Theme-000000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I)
-
-Theme development oriented to custom specifications 💻 Wordpress | PHP | MySql | HTML | CSS | Javascript | jQuery.
-
 | Theme Development | Tech Lead, Project Management |
 | - | - |
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwYH2M1l_qHkiYdfdyv2Bi4I) | Information Architecture, Html, Css, Javascript, jQuery |
