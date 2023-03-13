@@ -35,7 +35,7 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 | The Skyline Agency | Information Architecture, Page Speed Optimization, MySql |
 | - | - |
 | [![Youtube](https://img.shields.io/badge/Watch%20on%20Youtube-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3Zpwa4UQEvZxKtK9-2QpX0J22f) | Wordpress, Magento, Drupal, SparkPay, Php |
-| US & Canada Websites | Html, Javascript, jQuery, Photoshop, Accessibility, Cloud |
+| US & Canada Websites | Html, Javascript, jQuery, Photoshop, Accessibility |
 
 
 
