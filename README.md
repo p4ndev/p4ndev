@@ -7,11 +7,21 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 ## Challenges
 
 [![HackerRank](https://github.com/p4ndev/p4ndev/raw/main/challenges/hackerrank.jpg)](https://www.hackerrank.com/worldcellos)
+[![LeetCode](https://github.com/p4ndev/p4ndev/raw/main/challenges/leetcode.jpg)](https://leetcode.com/p4ndev)
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000.svg?style=for-the-badge)](https://www.hackerrank.com/worldcellos)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000.svg?style=for-the-badge)](https://leetcode.com/p4ndev)
-[![FreeCodeCamp](https://img.shields.io/badge/FreeCodeCamp-000000.svg?style=for-the-badge)](https://www.freecodecamp.org/P4ndev)
-[![FrontEndMentor](https://img.shields.io/badge/FrontEndMentor-000000.svg?style=for-the-badge)](https://www.frontendmentor.io/profile/p4ndev)
+...add FreeCodeCamp logo here
+
+[![CSS Dinner](https://github.com/p4ndev/p4ndev/raw/main/challenges/css-dinner.jpg)](https://flukeout.github.io)
+[![Css - Grid](https://github.com/p4ndev/p4ndev/raw/main/challenges/grid-garden.jpg)](https://cssgridgarden.com)
+[![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-froggy.jpg)](https://flexboxfroggy.com)
+[![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-defense.jpg)](http://www.flexboxdefense.com)
+
+
+
+
+
+
+
 
 ## Skills
 
