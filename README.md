@@ -15,6 +15,14 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 [![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-froggy.jpg)](https://flexboxfroggy.com)
 [![Css - Flexbox](https://github.com/p4ndev/p4ndev/raw/main/challenges/flexbox-defense.jpg)](http://www.flexboxdefense.com)
 
+## Skills
+
+**Front end:** _Angular | React | Photoshop | Experience | Interface_
+
+**Back end:** _.Net | C# (Sharp) | Node | Javascript_
+
+**Architecture:** _Design Patterns | Design Principles | Architecture_
+
 ## Accomplishments
 
 | Mercedes Benz Brasil | Angular, Html, Sass, Bootstrap, XD, Typescript |
@@ -49,10 +57,3 @@ Highly skilled Full Stack Developer with over 17 years of experience in deliveri
 
 ...as an extra accomplishment: [![Youtube](https://img.shields.io/badge/React%20Native%20App-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb) and [![Youtube](https://img.shields.io/badge/Mainframe%20Api%20Architect-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO)
 
-## Skills
-
-**Front end:** _Angular | React | Photoshop | Experience | Interface_
-
-**Back end:** _.Net | C# (Sharp) | Node | Javascript_
-
-**Architecture:** _Design Patterns | Design Principles | Architecture_
