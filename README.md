@@ -1,12 +1,10 @@
-[![Download resume](https://img.shields.io/badge/Download%20resume-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/gustavo_jaques_resume_complete.pdf)
+## Resume
+[![PDF](https://img.shields.io/badge/PDF-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.pdf)
+[![DOCX](https://img.shields.io/badge/DOCX-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.docx)
 
-## Skills
+## Summary
 
-_.Net, C# (Sharp), Node, Javascript_
-
-_Angular, React, Photoshop, Experience, Interface_
-
-_Architecture, Design Pattern, Design Principle, Database, Cloud_
+I'm dedicated to creating outstanding user experiences and interfaces while leveraging best practices and reliable stacks to deliver clean and efficient solutions. Based on my proficiency in full stack development and background in architecture, I'm well-positioned to deliver comprehensive solutions that meet the unique needs of multiple type of problems.
 
 ## Accomplishments
 
