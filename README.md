@@ -4,7 +4,7 @@
 
 ## Summary
 
-BS in Computer Science and expertise in software architecture, I'm committed to creating top-notch user experiences and interfaces while following best practices and delivering efficient solutions.
+I'm a skilled developer and software architect with a BS in Computer Science, committed to delivering exceptional experiences and interfaces with best practices and efficiency.
 
 ## Accomplishments
 
