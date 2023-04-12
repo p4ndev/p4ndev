@@ -42,10 +42,12 @@ I'm dedicated to creating outstanding user experiences and interfaces while leve
 
 ## Professional Tech Challenges
 
-Video evidences with my abilities based on company's request.
+Video evidences with final result of the request from companies during the interview processes.
 
 ### Cynet
+
 [React / Typescript / Sql](https://www.loom.com/share/4cd3e9ad7bd0426c8f79ef5a49592091)
+
 [.Net / C# / Docker / Swagger](https://www.loom.com/share/991a6064e36f41e0ab2d557855901292)
 
 ### Tasklist
@@ -53,5 +55,7 @@ Video evidences with my abilities based on company's request.
 
 ### Klir
 [Business Rule - Formula](https://www.loom.com/share/312e2f7818d04c11adb87e072ad890d5)
+
 [Angular / Typescript](https://www.loom.com/share/dd72085467fc49e0b5a5695a2ceda4be)
+
 [.Net / C# / Postman](https://www.loom.com/share/61b1cbb23a22461290495eaaa4388844)
