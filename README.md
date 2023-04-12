@@ -4,7 +4,7 @@
 
 ## Summary
 
-I'm dedicated to creating outstanding user experiences and interfaces while leveraging best practices and reliable stacks to deliver clean and efficient solutions. Based on my proficiency in full stack development and background in architecture, I'm well-positioned to deliver comprehensive solutions that meet the unique needs.
+BS in Computer Science and expertise in software architecture, I'm committed to creating top-notch user experiences and interfaces while following best practices and delivering efficient solutions.
 
 ## Accomplishments
 
