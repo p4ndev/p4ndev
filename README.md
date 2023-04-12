@@ -40,3 +40,18 @@ I'm dedicated to creating outstanding user experiences and interfaces while leve
 
 ...as an extra accomplishment: [![Youtube](https://img.shields.io/badge/React%20Native%20App-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwbmwpbsSwrn_8uYlkKiVtDb) and [![Youtube](https://img.shields.io/badge/Mainframe%20Api%20Architect-FF0000.svg?style=for-the-badge&logo=Youtube&logoColor=white)](https://youtube.com/playlist?list=PLX10LPZ3ZpwancyWAjqUV8Y21yQQeYHmO)
 
+## Professional Tech Challenges
+
+Video evidences with my abilities based on company's request.
+
+### Cynet
+[React / Typescript / Sql](https://www.loom.com/share/4cd3e9ad7bd0426c8f79ef5a49592091)
+[.Net / C# / Docker / Swagger](https://www.loom.com/share/991a6064e36f41e0ab2d557855901292)
+
+### Tasklist
+[.Net / C# / Docker / Sql in Memory / React / Redux / Typescript / xUnit / Cypress](https://www.loom.com/share/b70672b642914cf5b97de16ed7e93eef)
+
+### Klir
+[Business Rule - Formula](https://www.loom.com/share/312e2f7818d04c11adb87e072ad890d5)
+[Angular / Typescript](https://www.loom.com/share/dd72085467fc49e0b5a5695a2ceda4be)
+[.Net / C# / Postman](https://www.loom.com/share/61b1cbb23a22461290495eaaa4388844)
