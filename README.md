@@ -44,6 +44,10 @@ I'm a skilled developer and software architect with a BS in Computer Science, co
 
 Video evidences with final result of the request from companies during the interview processes.
 
+### Social Makers
+
+https://www.youtube.com/playlist?list=PLX10LPZ3ZpwaDY_sEfdM79_SxtvbrS6La
+
 ### Cynet
 
 [React / Typescript / Sql](https://www.loom.com/share/4cd3e9ad7bd0426c8f79ef5a49592091)
