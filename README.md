@@ -6,7 +6,7 @@
 
 I'm a skilled developer and software architect with a BS in Computer Science, committed to delivering exceptional experiences and interfaces with best practices and efficiency.
 
-## Professional Tech Challenges
+## Tech Challenges
 
 Video evidences with final result of the request from companies during the interview processes.
 
