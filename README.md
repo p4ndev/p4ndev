@@ -1,5 +1,5 @@
-## Resume (download)
-[![PDF](https://img.shields.io/badge/PDF-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.pdf)
+## Resume
+Download: [![PDF](https://img.shields.io/badge/PDF-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.pdf)
 [![DOCX](https://img.shields.io/badge/DOCX-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.docx)
 
 ## About
