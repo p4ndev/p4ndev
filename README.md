@@ -1,10 +1,14 @@
-## Download Resume
+## Resume (download)
 [![PDF](https://img.shields.io/badge/PDF-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.pdf)
 [![DOCX](https://img.shields.io/badge/DOCX-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.docx)
 
-## Tech Challenges
+## About
 
-Some technical requests from companies during the interview processes.
+Accomplished professional with over 18 years of expertise in full-stack software development and architecture, holding a Bachelor of Science in Computer Science. Demonstrated track record in designing, developing, and deploying robust and scalable software systems.
+
+## Challenges
+
+Technical requests from companies during the interview processes.
 
 - [Social Makers](https://www.youtube.com/playlist?list=PLX10LPZ3ZpwaDY_sEfdM79_SxtvbrS6La)
 - [Cynet - React / Typescript / Sql](https://www.loom.com/share/4cd3e9ad7bd0426c8f79ef5a49592091)
