@@ -6,9 +6,9 @@
 
 Accomplished professional with over 18 years of expertise in full-stack software development and architecture, holding a Bachelor of Science in Computer Science. Proven ability in designing, developing, and deploying robust and scalable software systems.
 
-## Challenges
+## Techinal Challenges
 
-Technical requests from companies during the interview processes.
+Projects built from scratch from my own (UI / UX / Backend / Frontend / Architecture / Stacks).
 
 - [Social Makers](https://www.youtube.com/playlist?list=PLX10LPZ3ZpwaDY_sEfdM79_SxtvbrS6La)
 - [Cynet - React / Typescript / Sql](https://www.loom.com/share/4cd3e9ad7bd0426c8f79ef5a49592091)
