@@ -10,7 +10,7 @@ Accomplished professional with over 18 years of expertise in full-stack software
 
 Projects built from scratch from my own (UI / UX / Backend / Frontend / Architecture / Stacks).
 
-- [Social Makers - Architecture / Angular / Documentation / UI / UX](https://www.youtube.com/playlist?list=PLX10LPZ3ZpwaDY_sEfdM79_SxtvbrS6La)
+- [Social Makers - Architecture / Angular / Dotnet / Documentation / UI / UX](https://www.youtube.com/playlist?list=PLX10LPZ3ZpwaDY_sEfdM79_SxtvbrS6La)
 - [Cynet - React / Typescript / UI / UX / Sql](https://www.loom.com/share/4cd3e9ad7bd0426c8f79ef5a49592091)
 - [Cynet - .Net / C# / Docker / Swagger](https://www.loom.com/share/991a6064e36f41e0ab2d557855901292)
 - [Tasklist - .Net / C# / Docker / Sql in Memory / React / Redux / Typescript / xUnit / Cypress](https://www.loom.com/share/b70672b642914cf5b97de16ed7e93eef)
