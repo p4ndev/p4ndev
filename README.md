@@ -15,5 +15,5 @@ Projects built from scratch from my own (UI / UX / Backend / Frontend / Architec
 - [Cynet - DotNet / C# / Docker / Swagger](https://www.loom.com/share/991a6064e36f41e0ab2d557855901292)
 - [Tasklist - DotNet / C# / Docker / Sql in Memory / React / Redux / Typescript / xUnit / Cypress](https://www.loom.com/share/b70672b642914cf5b97de16ed7e93eef)
 - [Klir - Business Logic](https://www.loom.com/share/312e2f7818d04c11adb87e072ad890d5)
-- [Klir - Angular / Typescript](https://www.loom.com/share/dd72085467fc49e0b5a5695a2ceda4be)
+- [Klir - Angular / Typescript / UX](https://www.loom.com/share/dd72085467fc49e0b5a5695a2ceda4be)
 - [Klir - DotNet / C# / Postman](https://www.loom.com/share/61b1cbb23a22461290495eaaa4388844)
