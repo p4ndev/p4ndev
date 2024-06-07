@@ -5,3 +5,7 @@
 ## About
 
 Accomplished professional with over 18 years of expertise in full-stack software development and architecture, holding a Bachelor of Science in Computer Science. Proven ability in designing, developing, and deploying robust and scalable software systems.
+
+## Top Skills
+
+• React • Angular • .Net • Node.js
