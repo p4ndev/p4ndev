@@ -8,4 +8,4 @@ Accomplished professional with over 18 years of expertise in full-stack software
 
 ## Top Skills
 
-• React • Angular • .Net • Node.js
+.Net • Angular • React • Node
