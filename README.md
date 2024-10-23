@@ -1,12 +1,14 @@
-## Resume
-[![PDF](https://img.shields.io/badge/ENGLISH-1f6feb.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/blob/5cbbbbd00dfc9db77258cd20990179bdffbf73c3/Gustavo-Jaques-EN-2024.pdf) [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-1f6feb.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/blob/5cbbbbd00dfc9db77258cd20990179bdffbf73c3/Gustavo-Jaques-EN-Linkedin-2024.pdf) [![DOCX](https://img.shields.io/badge/DOCX-1f6feb.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/blob/7f8d4c70923b2175e9a08d68022e158347fa65ac/Gustavo-Jaques-EN-2024.docx)
+## Resume / Currículo
+[![PDF](https://img.shields.io/badge/ENGLISH-1f6feb.svg?style=for-the-badge)](https://bit.ly/3YgNcsm)
 
 ## About
 
 Accomplished professional with over 18 years of expertise in full-stack software development and architecture, holding a Bachelor of Science in Computer Science. Proven ability in designing, developing, and deploying robust and scalable software systems.
 
+## Sobre
+
+Profissional com mais de 18 anos de experiência em desenvolvimento e arquitetura de software full-stack, bacharel em Ciência da Computação. Capacidade comprovada em projetar, desenvolver e implementar sistemas de software robustos e escaláveis.
+
 ## Top Skills
 
 .Net • Angular • React • Node
-
-
