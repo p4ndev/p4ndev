@@ -1,6 +1,9 @@
 ## Download resume
-[![PDF](https://img.shields.io/badge/PDF-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.pdf)
-[![DOCX](https://img.shields.io/badge/DOCX-000000.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/main/GustavoJaquesResume.docx)
+[![PDF](https://img.shields.io/badge/ENGLISH-238636.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/blob/5cbbbbd00dfc9db77258cd20990179bdffbf73c3/Gustavo-Jaques-EN-2024.pdf)
+
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-238636.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/blob/5cbbbbd00dfc9db77258cd20990179bdffbf73c3/Gustavo-Jaques-EN-Linkedin-2024.pdf)
+
+[![DOCX](https://img.shields.io/badge/DOCX-238636.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/blob/c7f0e4e0a625042e8777a46ba28df89d6611b814/Gustavo-Jaques-EN-Linkedin-2024.pdf)
 
 ## About
 
@@ -9,3 +12,5 @@ Accomplished professional with over 18 years of expertise in full-stack software
 ## Top Skills
 
 .Net • Angular • React • Node
+
+
