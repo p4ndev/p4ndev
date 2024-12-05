@@ -1,5 +1,5 @@
 ## Resume / Currículo
-[![PDF / DOCX](https://img.shields.io/badge/PDF-1f6feb.svg?style=for-the-badge)](https://bit.ly/3YgNcsm)
+[![PDF-DOCX](https://img.shields.io/badge/PDF-DOCX-1f6feb.svg?style=for-the-badge)](https://bit.ly/3YgNcsm)
 
 ## About
 
