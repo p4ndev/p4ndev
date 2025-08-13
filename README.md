@@ -1,5 +1,5 @@
 ## Resume / Currículo
-[![PDF-DOCX](https://img.shields.io/badge/PDF-DOCX-1f6feb.svg?style=for-the-badge)](https://bit.ly/3YgNcsm)
+[![PDF-DOCX](https://img.shields.io/badge/PDF-DOCX-1f6feb.svg?style=for-the-badge)](https://github.com/p4ndev/p4ndev/raw/ceb90f58680517128747997269e9abf3d9068b54/gustavo-jaques-en-2025.pdf)
 
 ## About
 
